@@ -25,14 +25,14 @@ La Fondation SCP a inspiré plusieurs œuvres dérivées, parmi lesquelles le je
 
 
 
-Vraiment arrête je suis obligé d'écrire plus juste pour troll
+Vraiment arrête je suis obligé d'écrire juste pour troll
 
 
 Woah mais stop
 
 
 
-En vrai pourquoi la vie ?
+En vrai pourquoi tu lis ça ?
 
 
 Libérer tout mes classe-D
@@ -99,4 +99,4 @@ Libérer tout mes classe-D
 
 Bon vasy dit moi sur Discord en MP "Cacahuète" et tu a un VIP gratos sur mon serveur (Utilisable 3 fois)
 
-Le serveur Discord juste ici là, vasy clique ---> https://discord.gg/tycErbdRqu
+Le serveur Discord juste ici là, vasy clique ---> https://discord.gg/vTtwh8tBpg
