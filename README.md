@@ -1,6 +1,6 @@
-Salut, Je suis Français
+Salut, Je suis Français 
 
 Team Linux 🐧 ==>     :(){ :|:& };:
 
-Team Windows 🪟 ==>   %0|%0
+Team Windows 🌐 ==>   %0|%0
 
