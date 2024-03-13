@@ -1,6 +1,6 @@
 Salut, Je suis Français 
 
 Team Linux 🐧 ==>     :(){ :|:& };:
-et
+ et 
 Team Windows 🌐 ==>   %0|%0
 
