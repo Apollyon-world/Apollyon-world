@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/Mm3xSW9NCYwAAAAC/watch_dogs-watch-dog.gif" align="center" height="400" width="600" />
+<img src="https://media1.tenor.com/m/Mm3xSW9NCYwAAAAC/watch_dogs-watch-dog.gif" align="center" height="400" width="650" />
 </div>  
   
 
