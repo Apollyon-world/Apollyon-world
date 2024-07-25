@@ -86,15 +86,17 @@
 
 
 ## Github Stats  
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Apollyon-world&show_icons=true&count_private=true&hide_border=true" style="width: 100%;" />
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apollyon-world&hide_border=true&layout
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Apollyon-world&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<br/>  
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apollyon-world&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
 
   
 
