@@ -6,7 +6,7 @@
 ### <div align="center">Je suis Apollyon_world, un développeur freelance full-stack à mi-temps 👨‍💻 depuis 2018 🚀.</div>  
   
 
-- 🔭 Je travaille actuellement sur Oméga-Protect pour [Oméga Facility DarkRP](https://discord.gg/p3tttNyCva)  
+- 🔭 Je travaille actuellement sur E.O.R. DayZ pour [Empire Of Roleplay](https://discord.gg/eGksdTrfsv)
   
 
 - 🌱 Je suis en train d'apprendre PHP et JS  
