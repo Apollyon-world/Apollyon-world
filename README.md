@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Je suis Apollyon_world, un développeur freelance autodidacte full-stack à mi-temps 👨‍💻 depuis 2018 🚀.</div>  
+### <div align="center">Je suis Apollyon_world, un développeur freelance autodidacte full-stack à mi-temps 👨‍💻 depuis 2020 🚀.</div>  
   
 
 - 🔭 Je travaille actuellement sur Obli-view
