@@ -6,10 +6,10 @@
 ### <div align="center">Je suis Apollyon_world, un développeur freelance autodidacte full-stack à mi-temps 👨‍💻 depuis 2020 🚀.</div>  
   
 
-- 🔭 Je travaille actuellement sur Obli-view
+- 🔭 Je travaille actuellement sur Obli-view et Nitroxyde
   
 
-- 🌱 Je suis en train d'apprendre PHP et JS  
+- 🌱 Je suis en train d'apprendre PHP, JS et Python
   
 
 <br/>  
