@@ -9,7 +9,7 @@
 - 🔭 Je travaille actuellement sur Obli-view et Nitroxyde
   
 
-- 🌱 Je suis en train d'apprendre PHP, JS et Python
+- 🌱 Je suis entrain d'apprendre PHP, JS et Python
   
 
 <br/>  
